@@ -1,5 +1,5 @@
 # Bharat-herald-newspaper-analysis
-Helped Bharat Herald Newspaper to figure out why their digital transition strategy has failed and suggested valuable insights for their next phase launch.ifier product before they do their further R&amp;D process and launch their product in the market.
+Helped Bharat Herald Newspaper to figure out why their digital transition strategy has failed and suggested valuable insights for their next phase launch, before they do their further R&amp;D process and launch their product in the market.
 <img width="1508" height="579" alt="sa" src="https://github.com/user-attachments/assets/cdf282a1-ce06-4a04-896a-14bd9cbe6b1a" />
 
 <img width="1565" height="876" alt="Screenshot 2025-09-28 182840" src="https://github.com/user-attachments/assets/0978a369-165c-48d5-8001-df8744376ed3" />
